@@ -1,0 +1,22 @@
+# Frontend
+ecom-frontend-3-yt/node_modules/
+ecom-frontend-3-yt/dist/
+
+# Backend
+ecom-proj/target/
+
+# Secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
